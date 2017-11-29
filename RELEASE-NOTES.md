@@ -77,7 +77,7 @@ Font Mfizz by Fizzed
  - Added icon-javascript-alt
  - Added icon-erlang
  - Added icon-elixir
- - Added icon-wordpress
+ - Added icon-drupal
  - Added icon-mongodb
  - Added icon-laravel
  - Added icon-symfony
